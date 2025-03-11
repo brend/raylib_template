@@ -323,14 +323,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "particulus"
-version = "0.1.0"
-dependencies = [
- "rand",
- "raylib",
-]
-
-[[package]]
 name = "ppv-lite86"
 version = "0.2.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -422,6 +414,14 @@ dependencies = [
  "cc",
  "cmake",
  "fs_extra",
+]
+
+[[package]]
+name = "raylib_template"
+version = "0.1.0"
+dependencies = [
+ "rand",
+ "raylib",
 ]
 
 [[package]]
