@@ -1,4 +1,3 @@
-use rand::Rng;
 use raylib::prelude::*;
 
 const SCREEN_WIDTH: i32 = 800;
