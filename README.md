@@ -1,4 +1,3 @@
-# Rust & raylib Application Template
+# {{ crate_name }}
 
-A template for a Rust application that uses raylib 
-to render its world.
+This awesome crate `{{ crate_name }}` is brought to you by {{ authors }}.
