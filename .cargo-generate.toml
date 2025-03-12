@@ -1,4 +1,4 @@
 [template]
 name = "raylib_template"
 description = "A template for creating raylib-based applications in Rust"
-authors = ["Your name"]
+authors = [{{username}}]
